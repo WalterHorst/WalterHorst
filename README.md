@@ -21,7 +21,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Soy un full stack en progreso</h2></summary>
   </ul>
 </div>
 
@@ -29,7 +29,7 @@
 <!--Intro start-->
 - 🔭 Actualmente estoy trabajando en **Next.js, React, Nodejs, PostgreSQL**
 
--☁️ Tengo gran interés en el desarrollo de software y aplicaciones webs 
+- ☁️ Tengo gran interés en el desarrollo de software y aplicaciones webs 
 
 - 📫 No dudes en comunicarte conmigo **walterhorste@gmail.com**
 
