@@ -21,7 +21,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Soy un full stack en progreso</h2></summary>
+    <summary><h2 style="display: inline-block">Full Stack Developer</h2></summary>
   </ul>
 </div>
 
