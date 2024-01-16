@@ -27,7 +27,7 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy trabajando en **Next.js, React, Nodejs, PostgreSQL**
+- 🔭 Actualmente estoy trabajando en **Next.js, React, Nodejs, PostgreSQL, Nest.js**
 
 - ☁️ Tengo gran interés en el desarrollo de software y aplicaciones webs 
 
@@ -45,7 +45,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,express,figma,firebase,github,html,js,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,prisma,sqlite,sequelize,vercel,vite,java,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,express,figma,firebase,github,html,js,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,prisma,sqlite,sequelize,vercel,vite,java,docker,nest&perline=14" />
   </a>
 </p>
 
